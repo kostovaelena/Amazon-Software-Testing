@@ -1,1 +1,1 @@
-# Amazon Software Testing using Selenium
+# Amazon Software Testing with Selenium Automated testing tool (WebDriver)
