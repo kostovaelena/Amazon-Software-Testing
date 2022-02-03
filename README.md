@@ -1,1 +1,1 @@
-# SeleniumSimple
+# Amazon Software Testing using Selenium
